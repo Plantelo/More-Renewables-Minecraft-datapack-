@@ -1,8 +1,0 @@
-{
-  "type": "smelting",
-  "ingredient": {
-    "item": "minecraft:gravel"
-  },
-  "result": "minecraft:iron_nugget",
-  "experience": 0.0
-}
