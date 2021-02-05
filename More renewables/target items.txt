@@ -1,16 +1,22 @@
+--v0.00
 Gravel
 Dirt
 Iron
 Coal
+
+--v0.01
 Cobweb
 Upgraded horse armor
 Lava
-Obsidian
 Bell
 Clay
 Netherrack
 Shulker Shell
 
+--v0.01b
+Diamond
+
+--tba
 "Snout" pattern
 Elytra
 God apple
@@ -20,7 +26,6 @@ Large Fern/Tall Grass (item)
 Dead Bush
 Sponge
 Ancient Debris
-Diamond
 Ores
 Blaze Rod
 Ghast Tear
