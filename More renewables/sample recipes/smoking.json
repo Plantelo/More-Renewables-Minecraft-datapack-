@@ -1,0 +1,8 @@
+{
+  "type": "smoking",
+  "ingredient": {
+    "item": "minecraft:[item]"
+  },
+  "result": "minecraft:[item]",
+  "experience": [float]
+}

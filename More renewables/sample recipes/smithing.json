@@ -1,0 +1,10 @@
+{
+  "type": "smithing",
+  "base": {
+    "item": "minecraft:[item]"
+  },
+  "addition": {
+    "item": "minecraft:[item]"
+  },
+  "result": "minecraft:[item]"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RQR",
+    "QQQ",
+    "RQR"
+  ],
+  "key": {
+    "Q": {
+      "item": "minecraft:nether_quartz"
+    },
+    "R": {
+      "item": "minecraft:red_sand"
+    }
+  },
+  "result": {
+    "item": "minecraft:redstone_block",
+    "count": 1
+  }
+}

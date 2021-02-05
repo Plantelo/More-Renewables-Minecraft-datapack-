@@ -1,0 +1,8 @@
+{
+  "type": "blasting",
+  "ingredient": {
+    "item": "minecraft:[item]"
+  },
+  "result": "minecraft:[item]",
+  "experience": [float]
+}

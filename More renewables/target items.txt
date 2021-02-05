@@ -16,6 +16,18 @@ Shulker Shell
 --v0.01b
 Diamond
 
+--undocumented
+**Gunpowder
+
+--v0.02
+Sand
+Red Sand
+Redstone
+Podzol
+Mycelium
+Coal/Iron/Gold/Emerald/Diamond/Nether Gold Ore (from their materials)
+Nether Quartz Ore
+
 --tba
 "Snout" pattern
 Elytra
@@ -26,10 +38,9 @@ Large Fern/Tall Grass (item)
 Dead Bush
 Sponge
 Ancient Debris
-Ores (from their complete materials)
+Lapis Lazuli/Redstone Ore (from their materials)
 Blaze Rod
 **Ender Pearl
-**Gunpowder
 Ghast Tear
 Mob Heads
 Music Discs
@@ -44,16 +55,13 @@ Phantom Membrane
 Bottle o' Enchanting
 Coral blocks
 Lapis
-Podzol
-Sand
 Blackstone
 Chainmail
 Crying Obsidian
 Emerald
 Glowstone
-Nether Quartz
-Soul Sand
 End Stone
 Wither Rose
-Redstone
 Lily Pad
+Soul Sand
+Soul Soil

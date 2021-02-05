@@ -10,3 +10,12 @@
 	>>> version 0.01b <<<
 - Added crafting for Diamond
 @06.01.2021
+
+	>>> undocumented <<<
+- Added crafting for gunpowder
+@--.01.2021
+
+	>>> version 0.02 <<<
+- Added stonecutting for Gravel and Sand
+- Added crafting for Podzol, Mycelium, Red Sand, Redstone, Gold Ore, Iron Ore, Coal Ore, Emerald Ore, Diamond Ore, Nether Gold Ore and Nether Quartz Ore
+@20.01.2021

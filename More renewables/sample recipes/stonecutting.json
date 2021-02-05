@@ -1,0 +1,8 @@
+{
+  "type": "stonecutting",
+  "ingredient": {
+    "item": "minecraft:[item]"
+  },
+  "result": "minecraft:[item]",
+  "count": [int]
+}
