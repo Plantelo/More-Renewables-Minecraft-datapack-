@@ -1,25 +1,33 @@
 	>>> version 0.00 <<<
-- Added crafting for Coal, Gravel, and Dirt
-- Gravel can now be smelted into an Iron Nugget
+- Added crafting for Coal, Gravel, and Dirt.
+- Gravel can now be smelted into an Iron Nugget.
 @--.12.2020
 
 	>>> version 0.01 <<<
-- Added crafting for Cobweb, Gold/Iron/Diamond Horse Armor, Lava Bucket, Bell, Clay, Netherrack and Shulker Shell
+- Added crafting for Cobweb, Gold/Iron/Diamond Horse Armor, Lava Bucket, Bell, Clay, Netherrack and Shulker Shell.
 @06.01.2021
 
 	>>> version 0.01b <<<
-- Added crafting for Diamond
+- Added crafting for Diamond.
 @06.01.2021
 
 	>>> undocumented <<<
-- Added crafting for gunpowder
+- Added crafting for **Gunpowder.
+- Added new folder for peaceful crafting (** prefix for items).
 @--.01.2021
 
 	>>> version 0.02 <<<
-- Added stonecutting for Gravel and Sand
-- Added crafting for Podzol, Mycelium, Red Sand, Redstone, Gold Ore, Iron Ore, Coal Ore, Emerald Ore, Diamond Ore, Nether Gold Ore and Nether Quartz Ore
+- Added stonecutting for Gravel and Sand.
+- Added crafting for Podzol, Mycelium, Red Sand, Redstone, Gold Ore, Iron Ore, Coal Ore, Emerald Ore, Diamond Ore, Nether Gold Ore and Nether Quartz Ore.
 @20.01.2021
 
 	>>> version 0.02b <<<
-- Gravel can now be smelted in a blast Furnace.
-@21.02.2021
+- Gravel can now be smelted in a Blast Furnace.
+@21.01.2021
+
+	>>> version 0.02c <<<
+- Reformatted changelog.
+- Fixed wrong date in changelog.
+- Added new folder for Skyblock crafting (×× prefix for items).
+- Renamed peaceful crafting folder to reflect use.
+@05.02.2021
