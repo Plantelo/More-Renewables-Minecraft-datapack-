@@ -19,3 +19,7 @@
 - Added stonecutting for Gravel and Sand
 - Added crafting for Podzol, Mycelium, Red Sand, Redstone, Gold Ore, Iron Ore, Coal Ore, Emerald Ore, Diamond Ore, Nether Gold Ore and Nether Quartz Ore
 @20.01.2021
+
+	>>> version 0.02b <<<
+- Gravel can now be smelted in a blast Furnace.
+@21.02.2021
