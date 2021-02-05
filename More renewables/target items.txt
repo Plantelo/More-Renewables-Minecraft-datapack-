@@ -1,0 +1,52 @@
+Gravel
+Dirt
+Iron
+Coal
+Cobweb
+Upgraded horse armor
+Lava
+Obsidian
+Bell
+Clay
+Netherrack
+Shulker Shell
+
+"Snout" pattern
+Elytra
+God apple
+Gilded Blackstone
+Heart of the Sea
+Large Fern/Tall Grass (item)
+Dead Bush
+Sponge
+Ancient Debris
+Diamond
+Ores
+Blaze Rod
+Ghast Tear
+Mob Heads
+Music Discs
+Ominous Banner
+Prismarine
+Spider Eye
+Totem of Undying
+Trident
+Chorus
+Dragon's Breath
+Phantom Membrane
+Bottle o' Enchanting
+Coral blocks
+Lapis
+Podzol
+Sand
+Blackstone
+Chainmail
+Crying Obsidian
+Emerald
+Glowstone
+Nether Quartz
+Soul Sand
+End Stone
+Wither Rose
+Redstone
+Lily Pad

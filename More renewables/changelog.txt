@@ -1,0 +1,8 @@
+	>>> version 0.00 <<<
+- Added crafting for Coal, Gravel, and Dirt
+- Gravel can now be smelted into an Iron Nugget
+@--.12.2020
+
+	>>> version 0.01 <<<
+- Added crafting for Cobweb, Gold/Iron/Diamond Horse Armor, Lava Bucket, Bell, Clay, Netherrack and Shulker Shell
+@06.01.2021
