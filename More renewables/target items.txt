@@ -26,8 +26,10 @@ Large Fern/Tall Grass (item)
 Dead Bush
 Sponge
 Ancient Debris
-Ores
+Ores (from their complete materials)
 Blaze Rod
+**Ender Pearl
+**Gunpowder
 Ghast Tear
 Mob Heads
 Music Discs
